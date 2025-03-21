@@ -2,10 +2,10 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: grey;
+    background-color: #000;
 }
 #reader {
     width: 300px;
     margin: auto;
-    background-color: #000;
+    background-color: grey;
 }
